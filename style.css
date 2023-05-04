@@ -219,7 +219,7 @@ body {
   }
   
   div.equal:hover {
-    background-color: rgb(233, 177, 57);
+    background-color: rgb(234, 177, 57);
     -webkit-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
   }
